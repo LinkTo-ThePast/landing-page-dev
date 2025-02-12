@@ -6,8 +6,9 @@ const Header = () => {
     <header className="flex flex-row justify-between p-16 w-full">
       <Image
         src={"/assets/logo.png"}
-        width={122}
-        height={20}
+        width={135}
+        height={36}
+        quality={85}
         alt="Empleo digno para todos."
       />
       <LoginButton />
