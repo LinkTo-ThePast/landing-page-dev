@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-row">
+    <footer className="flex flex-row w-max place-items-end">
       <Image
         src={"/assets/frida.png"}
         width={80}

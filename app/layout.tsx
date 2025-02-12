@@ -17,7 +17,7 @@ const openSans = Epilogue({
 
 export const metadata: Metadata = {
   title: "Landing - Prototype",
-  description: "eED 2.0",
+  description: "ED 2.0",
 };
 
 export default function RootLayout({
@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${epilogue.className} ${openSans.className} antialiased m-0 p-0 bg-primary`}
+        className={`${epilogue.className} ${openSans.className} antialiased bg-primary`}
       >
         {children}
       </body>
