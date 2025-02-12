@@ -17,10 +17,10 @@ const Home = () => {
         <JobSpecs />
       </div>
 
-      <div className="relative z-20 bg-white">
+      <div className="relative z-20 bg-[#fffdf7]">
         <Card />
-        <Footer />
       </div>
+      <Footer />
     </div>
   );
 };
