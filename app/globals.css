@@ -15,8 +15,3 @@
     --foreground: #ededed;
   }
 }
-
-body {
-  color: var(--background);
-  background: linear-gradient(var(--primary, --secondary));
-}

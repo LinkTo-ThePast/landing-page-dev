@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${epilogue.className} ${openSans.className} antialiased margin-0 p-0`}
+        className={`${epilogue.className} ${openSans.className} antialiased m-0 p-0 bg-primary`}
       >
         {children}
       </body>
