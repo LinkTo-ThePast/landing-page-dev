@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const AddOne = () => {
   return (
-    <div className="flex flex-col gap-2 border-none bg-[#B782ED] text-left ">
+    <div className="flex flex-col gap-2 border-none bg-[#B782ED] text-left w-min ">
       <Image
         src={"/assets/logo-add.png"}
         width={122}

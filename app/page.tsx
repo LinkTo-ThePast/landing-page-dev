@@ -18,9 +18,10 @@ const Home = () => {
         <JobSpecs />
       </div>
 
-      <div className="relative z-20 bg-[#fffdf7] flex flex-row justify-between">
+      <div className="relative z-20 bg-[#fffdf7] flex flex-row justify-between place-items-center">
         <AddOne />
         <Card />
+        <AddOne />
       </div>
       <Footer />
     </div>
