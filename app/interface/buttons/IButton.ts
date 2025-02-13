@@ -1,7 +1,7 @@
-interface IButtonProps {
+interface ButtonProps {
   text: string;
   variant?: "primary" | "secondary" | "outline";
   onClick: () => void;
 }
 
-export default IButtonProps;
+export default ButtonProps;

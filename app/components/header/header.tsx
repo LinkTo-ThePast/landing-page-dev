@@ -1,5 +1,5 @@
 import Image from "next/image";
-import LoginButton from "../buttons/LoginButton";
+import Button from "../buttons/Button";
 
 const Header = () => {
   return (
@@ -11,7 +11,7 @@ const Header = () => {
         quality={85}
         alt="Empleo digno para todos."
       />
-      <LoginButton />
+      <Button text="Iniciar sesión" variant="secondary" onClick={() => {}} />
     </header>
   );
 };

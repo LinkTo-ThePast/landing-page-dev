@@ -1,16 +1,15 @@
-import IButtonProps from "@/app/interface/buttons/IButton";
+import ButtonProps from "@/app/interface/buttons/IButton";
 
-const Button = ({ text, variant = "primary", onClick }: IButtonProps) => {
+const Button = ({ text, variant = "primary", onClick }: ButtonProps) => {
   const styles = {
-    primary: "bg-[#ECE2F6] text-black",
-    secondary: "bg-primary text-[#fffdf7]",
+    primary: "bg-[#7302E3] text-white",
+    secondary: "bg-[#ECE2F6] text-black",
     outline: "border border-gray-400 text-black",
   };
 
   return (
     <button
-      className={`w-[150px] h-[32px] rounded-[24px] py-[8px] px-[12px] gap-[4px] font-semibold ${styles[variant]}`}
-      onClick={onClick}
+      className={`w-[150px] h-[32px] rounded-[24px] font-semibold ${styles[variant]}`}
     >
       {text}
     </button>
