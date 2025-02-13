@@ -1,3 +1,4 @@
+import AddOne from "./components/add/AddOne";
 import Card from "./components/card/Card";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
@@ -17,7 +18,8 @@ const Home = () => {
         <JobSpecs />
       </div>
 
-      <div className="relative z-20 bg-[#fffdf7]">
+      <div className="relative z-20 bg-[#fffdf7] flex flex-row justify-between">
+        <AddOne />
         <Card />
       </div>
       <Footer />
