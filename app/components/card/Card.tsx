@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Button from "../buttons/Button";
 
 const Card = () => {
   return (
@@ -15,9 +16,7 @@ const Card = () => {
         height={200}
         alt="Crea tu CV con nosotros e inicia tu historia de éxito."
       />
-      <button className="w-[170px] h-[24px] rounded-[24px] bg-primary text-center  text-[#fffdf7] px-18 py-[28px] inline-block align-middle">
-        Crear CV gratis.
-      </button>
+      <Button text="Crear CV gratis" variant="primary" onClick={() => {}} />
     </div>
   );
 };

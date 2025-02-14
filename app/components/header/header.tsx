@@ -11,7 +11,11 @@ const Header = () => {
         quality={85}
         alt="Empleo digno para todos."
       />
+<<<<<<< HEAD
       <Button text="Inicia sesion" variant="primary" />
+=======
+      <Button text="Iniciar sesión" variant="secondary" onClick={() => {}} />
+>>>>>>> refs/remotes/origin/main
     </header>
   );
 };
