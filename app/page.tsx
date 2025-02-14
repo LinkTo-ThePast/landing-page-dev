@@ -1,4 +1,4 @@
-import AddOne from "./components/add/AddOne";
+import Adds from "./components/add/Ads";
 import Card from "./components/card/Card";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
@@ -13,15 +13,21 @@ const Home = () => {
       <div className="relative z-10">
         <Header />
         <div className="text-center text-5xl font-bold mt-7 text-[#FBB89C]">
-          Encuentra el trabajo que quieras
+          Encuentra el trabajo que quieres
         </div>
         <JobSpecs />
       </div>
 
       <div className="relative z-20 bg-[#fffdf7] flex flex-row justify-between place-items-center">
-        <AddOne />
+        <Adds
+          heading="Conecta con las mejores empresas"
+          text="Accede a vacantes en las empresas líderes de México y encuentra el trabajo que siempre has querido."
+        />
         <Card />
-        <AddOne />
+        <Adds
+          heading="Recibe acompañamiento personalizado"
+          text="Frida, nuestra asistente virtual, te guiará paso a paso en el proceso y te ayudará a prepararte para destacar."
+        />
       </div>
       <Footer />
     </div>

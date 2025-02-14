@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const JobSpecs = () => {
   return (
-    <div className="grid grid-cols-4 font-normal text-center p-12 mt-10">
+    <div className="grid grid-cols-4 text-center font-bold items-center p-12 mt-10">
       <div className="flex flex-col items-center gap-2">
         <Image
           src={"/assets/tier/casa.png"}
@@ -27,8 +27,8 @@ const JobSpecs = () => {
         <Image
           src={"/assets/tier/rapido.png"}
           alt="Contratación inmediata."
-          width={24}
-          height={24}
+          width={22}
+          height={22}
         />
         <figcaption className="text-sm text-[#FFF1EB]">
           Contratación inmediata.
