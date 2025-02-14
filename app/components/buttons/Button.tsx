@@ -9,7 +9,7 @@ const Button = ({ text, variant = "primary", onClick }: ButtonProps) => {
 
   return (
     <button
-      className={`w-[150px] h-[32px] rounded-[24px] font-semibold ${styles[variant]}`}
+      className={`w-[150px] h-[32px] rounded-[24px] font-semibold ${styles[variant]} ${onClick}`}
     >
       {text}
     </button>

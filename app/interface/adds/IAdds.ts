@@ -1,7 +1,8 @@
 interface AddsProps {
   heading: string;
   text: string;
-  image?: undefined;
+  imageURL?: "adOne" | "adTwo";
+  propImage: "primary" | "assistant" | "default";
 }
 
 export default AddsProps;

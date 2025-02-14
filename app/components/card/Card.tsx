@@ -11,6 +11,7 @@ const Card = () => {
         Regístrate y crea tu CV gratis
       </h2>
       <Image
+        className="mb-5"
         src={"/assets/cv.png"}
         width={200}
         height={200}

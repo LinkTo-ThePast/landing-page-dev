@@ -3,7 +3,7 @@ import Image from "next/image";
 const JobSpecs = () => {
   return (
     <div className="grid grid-cols-4 text-center font-bold items-center p-12 mt-10">
-      <div className="flex flex-col items-center gap-2">
+      <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
           src={"/assets/tier/casa.png"}
           alt="Trabaja desde tu casa."
@@ -12,7 +12,7 @@ const JobSpecs = () => {
         />
         <figcaption className="text-sm text-[#FFF1EB]">Desde casa.</figcaption>
       </div>
-      <div className="flex flex-col items-center gap-2">
+      <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
           src={"/assets/tier/reloj.png"}
           alt="Empleos de medio tiempo."
@@ -23,7 +23,7 @@ const JobSpecs = () => {
           Medio tiempo.
         </figcaption>
       </div>
-      <div className="flex flex-col items-center gap-2">
+      <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
           src={"/assets/tier/rapido.png"}
           alt="Contratación inmediata."
@@ -34,7 +34,7 @@ const JobSpecs = () => {
           Contratación inmediata.
         </figcaption>
       </div>
-      <div className="flex flex-col items-center gap-2">
+      <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-120 hover:font-extrabold">
         <Image
           src={"/assets/tier/ubi.png"}
           alt="Busca la ubicación que más te convenga."
