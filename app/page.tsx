@@ -9,7 +9,7 @@ const Home = () => {
       {/*implement section with gradient according to design*/}
       <div className="absolute top-0 w-full h-[50vh] bg-gradient-to-br from-primary to-secondary"></div>
 
-      <div className="relative z-10">
+      <div className="relative z-10 mb-10">
         <Header />
         <div className="text-center text-5xl font-bold mt-7 text-[#FBB89C]">
           Encuentra el trabajo que quieras
@@ -17,7 +17,7 @@ const Home = () => {
         <JobSpecs />
       </div>
 
-      <div className="relative z-20 bg-[#fffdf7]">
+      <div className="relative z-50 bg-[#fffdf7]">
         <Card />
       </div>
       <Footer />

@@ -1,9 +1,9 @@
 import Image from "next/image";
-import LoginButton from "../buttons/LoginButton";
+import Button from "../buttons/Button";
 
 const Header = () => {
   return (
-    <header className="flex flex-row justify-between p-16 w-full">
+    <header className="flex flex-row justify-between pt-6 px-6 w-full">
       <Image
         src={"/assets/logo.png"}
         width={135}
@@ -11,7 +11,7 @@ const Header = () => {
         quality={85}
         alt="Empleo digno para todos."
       />
-      <LoginButton />
+      <Button text="Inicia sesion" variant="primary" />
     </header>
   );
 };
