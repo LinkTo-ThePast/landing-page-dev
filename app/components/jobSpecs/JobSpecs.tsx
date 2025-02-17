@@ -5,7 +5,7 @@ const JobSpecs = () => {
     <div className="md:grid md:grid-cols-4 grid grid-cols-2 gap-4 text-center font-bold items-center p-12 mt-5">
       <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
-          src={"/assets/tier/casa.png"}
+          src={"/landing-page-dev/assets/tier/casa.png"}
           alt="Trabaja desde tu casa."
           width={24}
           height={24}
@@ -14,7 +14,7 @@ const JobSpecs = () => {
       </div>
       <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
-          src={"/assets/tier/reloj.png"}
+          src={"/landing-page-dev/assets/tier/reloj.png"}
           alt="Empleos de medio tiempo."
           width={24}
           height={24}
