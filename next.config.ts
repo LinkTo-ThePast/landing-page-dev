@@ -5,6 +5,9 @@ const nextConfig: NextConfig = {
   basePath: "/landing-page-dev",
   output: "export",
   reactStrictMode: true,
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
