@@ -8,8 +8,8 @@ const Adds = ({
   propImage = "default",
 }: AddsProps) => {
   const images = {
-    adOne: "/assets/adOne.png",
-    adTwo: "/assets/frida.png",
+    adOne: "/landing-page-dev/assets/adOne.png",
+    adTwo: "/landing-page-dev/assets/frida.png",
   };
 
   const propsImages = {
@@ -32,7 +32,7 @@ const Adds = ({
   return (
     <div className="relative flex flex-col gap-3 rounded-lg  bg-[#B782ED] text-left w-[405px] mt-10 ml-8 mr-8 pt-[24px] px-[15px] h-[350px]">
       <Image
-        src={"/assets/logo-add.png"}
+        src={"/landing-page-dev/assets/logo-add.png"}
         width={propsImages[propImage].width}
         height={propsImages[propImage].height}
         alt="Logo de la Empresa."

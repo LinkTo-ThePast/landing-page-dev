@@ -25,7 +25,7 @@ const JobSpecs = () => {
       </div>
       <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
-          src={"/assets/tier/rapido.png"}
+          src={"/landing-page-dev/assets/tier/rapido.png"}
           alt="Contratación inmediata."
           width={22}
           height={22}
@@ -36,7 +36,7 @@ const JobSpecs = () => {
       </div>
       <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-120 hover:font-extrabold">
         <Image
-          src={"/assets/tier/ubi.png"}
+          src={"/landing-page-dev/assets/tier/ubi.png"}
           alt="Busca la ubicación que más te convenga."
           width={24}
           height={24}

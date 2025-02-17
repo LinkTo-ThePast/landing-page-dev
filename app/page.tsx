@@ -13,7 +13,7 @@ const Home = () => {
       <div id="header-div">
         <Header />
         <div className="text-center md:text-5xl text-3xl font-bold mt-7 text-[#FBB89C]">
-          Encuentra el trabajo <br /> que quieres
+          Encuentra el trabajo <br /> que quieres.
         </div>
         <JobSpecs />
       </div>

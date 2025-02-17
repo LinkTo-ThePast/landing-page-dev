@@ -12,7 +12,7 @@ const Footer = () => {
       </div>
       <Image
         className=" relative ml-15 "
-        src={"/assets/frida.png"}
+        src={"/landing-page-dev/assets/frida.png"}
         width={80}
         height={80}
         alt="Nuestra agente virtual: Frida. ¡Ella te acompañará a lo largo de tu viaje!"

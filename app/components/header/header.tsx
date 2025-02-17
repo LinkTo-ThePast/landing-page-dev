@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="flex flex-row md:justify-between justify-start sm:pt-6 sm:px-6 md:w-full sm:flex-row sm:w-fit">
       <Image
-        src={"/assets/logo.png"}
+        src={"/landing-page-dev/assets/logo.png"}
         width={135}
         height={36}
         quality={85}
