@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const JobSpecs = () => {
   return (
-    <div className="grid grid-cols-4 text-center font-bold items-center p-12 mt-10">
+    <div className="md:grid md:grid-cols-4 grid grid-cols-2 gap-4 text-center font-bold items-center p-12 mt-5">
       <div className="flex flex-col items-center gap-2 transiton duration-500 hover:scale-150 hover:font-extrabold">
         <Image
           src={"/assets/tier/casa.png"}
