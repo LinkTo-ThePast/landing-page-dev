@@ -6,11 +6,11 @@ import JobSpecs from "./components/jobSpecs/JobSpecs";
 
 const Home = () => {
   return (
-    <div className="flex flex-col min-h-screen">
-      {/*implement section with gradient according to design*/}
-      <div className="absolute top-0 w-full h-[40vh] bg-gradient-to-br from-primary to-secondary"></div>
-
-      <div className="relative z-10 mb-10">
+    <div
+      className="flex flex-col h-screen w-screen m-0 bg-gradient-to-br from-primary to-secondary "
+      id="main-div"
+    >
+      <div id="header-div">
         <Header />
         <div className="text-center text-5xl font-bold mt-7 text-[#FBB89C]">
           Encuentra el trabajo que quieres
@@ -18,7 +18,7 @@ const Home = () => {
         <JobSpecs />
       </div>
 
-      <div className=" bg-[#fffdf7] flex-grow flex flex-row justify-between place-items-center">
+      <div className="flex-grow flex flex-row justify-between place-items-center">
         <Adds
           heading="Conecta con las mejores empresas"
           text="Accede a vacantes en las empresas líderes de México y encuentra el trabajo que siempre has querido."

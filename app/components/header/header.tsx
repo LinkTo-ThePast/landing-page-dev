@@ -11,7 +11,10 @@ const Header = () => {
         quality={85}
         alt="Empleo digno para todos."
       />
-      <Button text="Inicia sesion" variant="primary" />
+      <div className="flex flex-row gap-6 place-content-end">
+        <Button text="Registrarse" variant="primary" />
+        <Button text="Inicia sesion" variant="primary" />
+      </div>
     </header>
   );
 };
