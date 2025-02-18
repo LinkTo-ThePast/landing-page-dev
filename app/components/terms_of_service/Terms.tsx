@@ -32,24 +32,6 @@ const Terms = () => {
     );
   };
 
-  const data = [
-    {
-      title: "1. Bienvenida e introducción",
-      content:
-        "En Empleo Digno, nos dedicamos a brindarte una experiencia única en tu búsqueda y desarrollo profesional. Estamos comprometidos a acompañarte en cada paso de tu camino hacia el crecimiento laboral, asegurándonos de que cada interacción con nuestra plataforma sea significativa y enriquecedora. Por eso, hemos preparado este documento que establece las reglas para usar nuestros servicios e interactuar con nuestra plataforma tecnológica. Te invitamos a leer con atención los Términos de Uso de nuestra plataforma.\n\nNuestra misión es conectar a profesionales al implementar un innovador sistema de 'Matchmaking Inteligente' que utiliza la Inteligencia Artificial para emparejar a nuestros usuarios con oportunidades de empleo. De igual forma, se fomenta un seguimiento de crecimiento laboral a través de cursos, capacitaciones y certificaciones, así, no solo fomentamos el desarrollo profesional, sino que también garantizamos una conexión efectiva entre candidatos y empleadores, creando un entorno de confianza y colaboración para el progreso profesional.\n\nPor medio de este Contrato de Adhesión te informamos las reglas y términos de uso de nuestros servicios. En otras palabras, este contrato establece por un lado tus derechos y responsabilidades como consumidor al usar nuestra webapp (‘Plataforma’) y sus herramientas de productividad (‘Espacio de Trabajo’), así como la Bolsa de Trabajo de Empleo Digno, y por otro lado establece los derechos y obligaciones de Empleo Digno como proveedor de dichos servicios.\n\nAl usar nuestros Servicios, aceptas este Contrato y los Términos de Uso aquí contenidos. Tu uso también está sujeto a nuestra Política de Cookies y Política de Privacidad, que explican cómo manejamos tu información personal. Para más detalles, visita www.empleodigno.com\n\nAl seleccionar 'Unirse ahora', 'Registrarse', o un enlace similar, y al usar nuestros Servicios, estás aceptando un contrato legalmente vinculante con Empleo Digno. Si no estás de acuerdo con los Términos de Uso aquí contenidos, por favor no procedas con el registro ni uses nuestros servicios. Si has aceptado este Contrato por error, o simplemente ya no quieres usar nuestros servicios, recuerda que puedes terminar este contrato en cualquier momento cerrando tu Cuenta.",
-    },
-    {
-      title: "2. ¿Quiénes somos y qué es Empleo Digno?",
-      content:
-        "<p>En la Plataforma de Empleo Digno, existen dos categorías principales de usuarios: los 'Usuarios' y los 'Clientes'. Los Usuarios son aquellos individuos que se unen a nuestra bolsa de trabajo en búsqueda de oportunidades laborales; ellos acceden a diversas vacantes y pueden gestionar su perfil profesional dentro de la Plataforma. Dichos Términos de Uso se refieren exclusivamente a los Usuarios. En caso de querer leer el documento pertinente a los Clientes, por favor visita <a href='http://www.empleodigno.com' style='text-decoration: underline; color: black;'>www.empleodigno.com</a></p><p>Estos Términos y Condiciones representan un acuerdo legal entre usted, como usuario actual o potencial, y Empleo Digno, el nombre comercial del Instituto de Formación Digital, S.C., representado por Roberto Lara Limón, con domicilio establecido en Av. Insurgentes Sur 1216 Piso 8, Despachos 2-5, Col. Del Valle, Alcaldía Benito Juárez, C.P. 03100, Ciudad de México. Ellos rigen el uso de nuestros servicios a través de nuestra Plataforma en línea. Al acceder o utilizar nuestra Plataforma, usted se compromete a seguir estos Términos, así como nuestras políticas y principios. Esto incluye respetar las normativas legales relevantes en tu jurisdicción.</p><p>'Empleo Digno' es una marca cuyo registro ha sido solicitado por el Instituto de Formación Digital, S.C. ante el IMPI. Como tal, todos sus derechos de propiedad intelectual se encuentran reservados y no pueden usarse sin consentimiento expreso del Instituto de Formación Digital, S.C. Para obtener más detalles sobre nuestra propiedad intelectual, les invitamos a consultar nuestro Aviso de Propiedad Intelectual.</p>",
-    },
-    {
-      title: "3. Explorando nuestros Servicios",
-      content:
-        " <p>Empleo Digno se distingue por su Plataforma integral de servicios profesionales en línea. Esta plataforma cubre desde el diagnóstico de necesidades de formación hasta el reclutamiento y selección de talento. Además, facilita la inducción y capacitación, apoya el desarrollo continuo de los colaboradores con planes de carrera personalizados y ofrece acceso a una extensa bolsa de trabajo para el público general. La Plataforma está diseñada para ser un recurso completo en el ámbito del desarrollo profesional y la gestión del talento.</p><p style='margin-bottom:20px;'>La Plataforma, diseñada y operada con Inteligencia Artificial, optimiza las distintas etapas de atracción y gestión de talento en las empresas. Esto incluye reclutamiento, entrenamiento, retención, planificación de carrera y administración de recursos humanos. La Plataforma también proporciona oportunidades de empleo y capacitación, enfocándose principalmente en empresas AAA en México e Hispanoamérica.</p><p style='margin-bottom:20px;'>Para ofrecer una mejor comprensión y claridad, a continuación, presentamos las definiciones clave que serán fundamentales para el uso de la Plataforma:</p><ul style='margin-left:20px; margin-bottom:20px;'><li><strong>Términos de Uso o Términos:</strong> Se refiere al contenido del contrato de adhesión, y su función es definir las reglas y condiciones bajo las cuales tú, como Usuario, puedes utilizar la Plataforma.</li><li><strong>Contrato de Adhesión:</strong> Se refiere a este contrato en específico, el cual es un tipo de contrato preestablecido en el que los términos de uso son fijados por Empleo Digno. Dichos términos de uso no pueden ser modificados ni negociados por los Usuarios.</li><li><strong>Empleo Digno:</strong> Es el nombre comercial del Instituto de Formación Digital, S.C., representado por Roberto Lara Limón, con domicilio establecido en Av. Insurgentes Sur 1216 Piso 8, Despachos 2-5, Col. Del Valle, Alcaldía Benito Juárez, C.P. 03100, Ciudad de México.</li><li><strong>WebApp/Plataforma:</strong> Se refiere a una aplicación web diseñada para proporcionar una experiencia integral y dinámica en la gestión de talento profesional. Esta herramienta en línea facilita diversas funciones como el reclutamiento, la capacitación, y el desarrollo de carreras, utilizando tecnologías avanzadas como la Inteligencia Artificial para personalizar y optimizar la experiencia del usuario. Funciona directamente a través de un navegador web, permitiendo un acceso fácil y eficiente a los Servicios de Empleo Digno sin la necesidad de descargar software adicional.</li><li><strong>Servicios:</strong> Los servicios a los que tendrás acceso son aquellos relacionados con la Bolsa de Trabajo de la Plataforma, los cuales incluyen la creación de un perfil de usuario con credenciales de acceso privadas, la carga de archivos digitales relacionados con la experiencia profesional y formación académica y/o técnica, y la posibilidad de visualizar oportunidades de vacantes laborales y de enviar tu perfil y/o tu currículum a las empresas y/o personas responsables de las vacantes publicadas.</li><li><strong>Inteligencia Artificial:</strong> La inteligencia artificial, conocida como IA o AI, por sus siglas en inglés, es una disciplina dentro de la informática que se centra en el desarrollo de sistemas y programas capaces de realizar tareas que normalmente requieren de la inteligencia humana. La IA busca emular características y capacidades propias del ser humano, como razonamiento, el aprendizaje, la percepción, el reconocimiento de patrones y la toma de decisiones. Los sistemas de IA utilizan algoritmos y modelos matemáticos para procesar grandes volúmenes de datos y generar resultados o acciones de forma autónoma.</li><li ><strong>Matchmaking Inteligente:</strong> Se realiza usando la herramienta de aprendizaje automático, también conocido como machine learning en inglés, la cual es una rama de la IA que se ocupa de desarrollar algoritmos y modelos que permiten a las máquinas aprender y mejorar automáticamente a partir de los datos.</li><li style='margin-left:40px;'><strong>Usuario:</strong> se refiere a una persona física que crea una cuenta en la plataforma para buscar empleo y no actúa como reclutador o empleador.</li><li style='margin-left:40px;'><strong>Cliente:</strong> corresponde a una persona física o entidad legal que utiliza la plataforma para publicar anuncios de empleo o buscar candidatos, accediendo a través de su cuenta en el sitio web.</li><li style='margin-left:40px;'><strong>Cuenta:</strong> Se refiere a un registro personalizado creado por ti como Usuario en la Plataforma. Esta Cuenta te permite acceder y utilizar nuestros Servicios. Incluye una identificación única (como un nombre de usuario o número de cuenta) y datos de seguridad (como una contraseña). La Cuenta contiene tu información personal y profesional, preferencias e historial de actividades.</li><li style='margin-left:40px;'><strong>Espacio de Trabajo:</strong> Se refiere a un área virtual personalizada dentro de la Plataforma destinada a un Usuario individual. Este Espacio sirve como el principal punto de interacción para los Usuarios con los Servicios de la Plataforma.</li><li style='margin-left:40px;'><strong>Licencia:</strong> Define el alcance de cómo se pueden usar los servicios, por lo que es importante destacar que es de uso temporal, no exclusiva, limitada y revocable, lo que significa que Empleo Digno puede terminarla bajo ciertas circunstancias, y no permite al Usuario compartir o transferir sus derechos a terceros sin consentimiento previo.</li><li style='margin-left:40px;'><strong>Datos Personales:</strong> La información recopilada, utilizada y compartida por Empleo Digno que puede identificar o hacer identificable a una persona. En los Servicios de Empleo Digno, abordamos integralmente el ciclo de vida profesional de nuestros Usuarios, implementando las siguientes soluciones tecnológicas y estrategias innovadoras:</li><li style='margin-left:60px;'>a. Diagnóstico: Utilizamos un software avanzado para el análisis y sistematización de la información del ciclo de vida del colaborador. Este software genera indicadores de eficiencia y proporciona reportes detallados sobre las áreas de oportunidad identificadas.</li><li style='margin-left:60px;'>b. Reclutamiento y Selección: Ofrecemos una selección minuciosa de candidatos, incluyendo aquellos preseleccionados de bases de datos externas y candidatos anteriormente descartados que han recibido capacitación adicional. Además, disponemos de herramientas que facilitan la selección de los mejores perfiles para cada vacante.</li><li style='margin-left:60px;'>c. Inducción y Capacitación: Implementamos programas de inducción virtual para optimizar los tiempos de adaptación, junto con cursos digitales de capacitación teórica que agilizan el proceso de formación.</li><li style='margin-left:60px;'>d. Desarrollo de Colaboradores / Plan de Carrera: Contamos con un aula virtual que ofrece formación específica según las necesidades de nuestros clientes y un plan de certificaciones internas y externas para el desarrollo profesional. Además, proporcionamos herramientas para identificar a los candidatos más adecuados para promociones internas.</li><li style='margin-left:60px;'>e. Público en General: Mantenemos una amplia bolsa de trabajo y ofrecemos cursos de capacitación y certificaciones orientadas a mejorar la empleabilidad en puestos específicos.</li></ul>",
-    },
-  ];
-
   return (
     <div className="h-full bg-primary_white mb-20  text-primary_black">
       <div className="absolute top-0 right-0 w-full h-1/5 bg-primary_pink z-0" />
@@ -102,8 +84,8 @@ const Terms = () => {
           </p>
           <p>
             Nuestra misión es conectar a profesionales al implementar un
-            innovador sistema de 'Matchmaking Inteligente' que utiliza la
-            Inteligencia Artificial para emparejar a nuestros usuarios con
+            innovador sistema de &aposMatchmaking Inteligente&apos que utiliza
+            la Inteligencia Artificial para emparejar a nuestros usuarios con
             oportunidades de empleo. De igual forma, se fomenta un seguimiento
             de crecimiento laboral a través de cursos, capacitaciones y
             certificaciones, así, no solo fomentamos el desarrollo profesional,
@@ -115,10 +97,11 @@ const Terms = () => {
             Por medio de este Contrato de Adhesión te informamos las reglas y
             términos de uso de nuestros servicios. En otras palabras, este
             contrato establece por un lado tus derechos y responsabilidades como
-            consumidor al usar nuestra webapp (‘Plataforma’) y sus herramientas
-            de productividad (‘Espacio de Trabajo’), así como la Bolsa de
-            Trabajo de Empleo Digno, y por otro lado establece los derechos y
-            obligaciones de Empleo Digno como proveedor de dichos servicios.
+            consumidor al usar nuestra webapp (&aposPlataforma&apos) y sus
+            herramientas de productividad (&aposEspacio de Trabajo&apos), así
+            como la Bolsa de Trabajo de Empleo Digno, y por otro lado establece
+            los derechos y obligaciones de Empleo Digno como proveedor de dichos
+            servicios.
           </p>
           <p>
             Al usar nuestros Servicios, aceptas este Contrato y los Términos de
@@ -133,25 +116,25 @@ const Terms = () => {
             </a>
           </p>
           <p>
-            Al seleccionar 'Unirse ahora', 'Registrarse', o un enlace similar, y
-            al usar nuestros Servicios, estás aceptando un contrato legalmente
-            vinculante con Empleo Digno. Si no estás de acuerdo con los Términos
-            de Uso aquí contenidos, por favor no procedas con el registro ni
-            uses nuestros servicios. Si has aceptado este Contrato por error, o
-            simplemente ya no quieres usar nuestros servicios, recuerda que
-            puedes terminar este contrato en cualquier momento cerrando tu
-            Cuenta.
+            Al seleccionar &aposUnirse ahora&apos, &aposRegistrarse&apos, o un
+            enlace similar, y al usar nuestros Servicios, estás aceptando un
+            contrato legalmente vinculante con Empleo Digno. Si no estás de
+            acuerdo con los Términos de Uso aquí contenidos, por favor no
+            procedas con el registro ni uses nuestros servicios. Si has aceptado
+            este Contrato por error, o simplemente ya no quieres usar nuestros
+            servicios, recuerda que puedes terminar este contrato en cualquier
+            momento cerrando tu Cuenta.
           </p>
         </ContentItem>
         <ContentItem title="¿Quiénes somos y qué es Empleo Digno?" index="2">
           <p>
             En la Plataforma de Empleo Digno, existen dos categorías principales
-            de usuarios: los 'Usuarios' y los 'Clientes'. Los Usuarios son
-            aquellos individuos que se unen a nuestra bolsa de trabajo en
-            búsqueda de oportunidades laborales; ellos acceden a diversas
-            vacantes y pueden gestionar su perfil profesional dentro de la
-            Plataforma. Dichos Términos de Uso se refieren exclusivamente a los
-            Usuarios. En caso de querer leer el documento pertinente a los
+            de usuarios: los &aposUsuarios&apos y los &aposClientes&apos. Los
+            Usuarios son aquellos individuos que se unen a nuestra bolsa de
+            trabajo en búsqueda de oportunidades laborales; ellos acceden a
+            diversas vacantes y pueden gestionar su perfil profesional dentro de
+            la Plataforma. Dichos Términos de Uso se refieren exclusivamente a
+            los Usuarios. En caso de querer leer el documento pertinente a los
             Clientes, por favor visita{" "}
             <a
               href="http://www.empleodigno.com"
@@ -173,13 +156,13 @@ const Terms = () => {
             respetar las normativas legales relevantes en tu jurisdicción.
           </p>
           <p>
-            'Empleo Digno' es una marca cuyo registro ha sido solicitado por el
-            Instituto de Formación Digital, S.C. ante el IMPI. Como tal, todos
-            sus derechos de propiedad intelectual se encuentran reservados y no
-            pueden usarse sin consentimiento expreso del Instituto de Formación
-            Digital, S.C. Para obtener más detalles sobre nuestra propiedad
-            intelectual, les invitamos a consultar nuestro Aviso de Propiedad
-            Intelectual.
+            &aposEmpleo Digno&apos es una marca cuyo registro ha sido solicitado
+            por el Instituto de Formación Digital, S.C. ante el IMPI. Como tal,
+            todos sus derechos de propiedad intelectual se encuentran reservados
+            y no pueden usarse sin consentimiento expreso del Instituto de
+            Formación Digital, S.C. Para obtener más detalles sobre nuestra
+            propiedad intelectual, les invitamos a consultar nuestro Aviso de
+            Propiedad Intelectual.
           </p>
         </ContentItem>
         <ContentItem title="Explorando nuestros Servicios" index="3">
