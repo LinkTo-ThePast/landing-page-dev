@@ -84,7 +84,7 @@ const Terms = () => {
           </p>
           <p>
             Nuestra misión es conectar a profesionales al implementar un
-            innovador sistema de &aposMatchmaking Inteligente&apos que utiliza
+            innovador sistema de &quot;Matchmaking Inteligente&quot; que utiliza
             la Inteligencia Artificial para emparejar a nuestros usuarios con
             oportunidades de empleo. De igual forma, se fomenta un seguimiento
             de crecimiento laboral a través de cursos, capacitaciones y
@@ -97,8 +97,8 @@ const Terms = () => {
             Por medio de este Contrato de Adhesión te informamos las reglas y
             términos de uso de nuestros servicios. En otras palabras, este
             contrato establece por un lado tus derechos y responsabilidades como
-            consumidor al usar nuestra webapp (&aposPlataforma&apos) y sus
-            herramientas de productividad (&aposEspacio de Trabajo&apos), así
+            consumidor al usar nuestra webapp (&quot;Plataforma&quot;) y sus
+            herramientas de productividad (&quot;Espacio de Trabajo&quot;), así
             como la Bolsa de Trabajo de Empleo Digno, y por otro lado establece
             los derechos y obligaciones de Empleo Digno como proveedor de dichos
             servicios.
@@ -116,8 +116,8 @@ const Terms = () => {
             </a>
           </p>
           <p>
-            Al seleccionar &aposUnirse ahora&apos, &aposRegistrarse&apos, o un
-            enlace similar, y al usar nuestros Servicios, estás aceptando un
+            Al seleccionar &quot;Unirse ahora&quot;, &quot;Registrarse&quot;, o
+            un enlace similar, y al usar nuestros Servicios, estás aceptando un
             contrato legalmente vinculante con Empleo Digno. Si no estás de
             acuerdo con los Términos de Uso aquí contenidos, por favor no
             procedas con el registro ni uses nuestros servicios. Si has aceptado
@@ -129,8 +129,8 @@ const Terms = () => {
         <ContentItem title="¿Quiénes somos y qué es Empleo Digno?" index="2">
           <p>
             En la Plataforma de Empleo Digno, existen dos categorías principales
-            de usuarios: los &aposUsuarios&apos y los &aposClientes&apos. Los
-            Usuarios son aquellos individuos que se unen a nuestra bolsa de
+            de usuarios: los &quot;Usuarios&quot; y los &quot;Clientes&quot;.
+            Los Usuarios son aquellos individuos que se unen a nuestra bolsa de
             trabajo en búsqueda de oportunidades laborales; ellos acceden a
             diversas vacantes y pueden gestionar su perfil profesional dentro de
             la Plataforma. Dichos Términos de Uso se refieren exclusivamente a
@@ -156,13 +156,13 @@ const Terms = () => {
             respetar las normativas legales relevantes en tu jurisdicción.
           </p>
           <p>
-            &aposEmpleo Digno&apos es una marca cuyo registro ha sido solicitado
-            por el Instituto de Formación Digital, S.C. ante el IMPI. Como tal,
-            todos sus derechos de propiedad intelectual se encuentran reservados
-            y no pueden usarse sin consentimiento expreso del Instituto de
-            Formación Digital, S.C. Para obtener más detalles sobre nuestra
-            propiedad intelectual, les invitamos a consultar nuestro Aviso de
-            Propiedad Intelectual.
+            &quot;Empleo Digno&quot; es una marca cuyo registro ha sido
+            solicitado por el Instituto de Formación Digital, S.C. ante el IMPI.
+            Como tal, todos sus derechos de propiedad intelectual se encuentran
+            reservados y no pueden usarse sin consentimiento expreso del
+            Instituto de Formación Digital, S.C. Para obtener más detalles sobre
+            nuestra propiedad intelectual, les invitamos a consultar nuestro
+            Aviso de Propiedad Intelectual.
           </p>
         </ContentItem>
         <ContentItem title="Explorando nuestros Servicios" index="3">
