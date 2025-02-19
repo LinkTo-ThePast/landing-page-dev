@@ -7,7 +7,7 @@ import JobSpecs from "./components/jobSpecs/JobSpecs";
 const Home = () => {
   return (
     <div
-      className="flex flex-col md:h-screen md:w-screen w-fit h-fit m-0 bg-gradient-to-br from-primary to-secondary "
+      className="flex flex-col md:h-screen md:w-screen w-fit h-fit m-0 bg-gradient-to-br from-primary to-secondary"
       id="main-div"
     >
       <div id="header-div">

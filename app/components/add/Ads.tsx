@@ -25,8 +25,6 @@ const Adds = ({
       width: 80,
       height: 80,
     },
-    // borde rodeando: se ve menos 'agresivo'
-    // usar rem en lugar de pixeles (formula de escalamiento)
   };
 
   return (
@@ -42,6 +40,7 @@ const Adds = ({
       <Image
         className="object-contain place-self-center"
         src={images[imageURL]}
+        objectFit="contain"
         width={propsImages[propImage].width}
         height={propsImages[propImage].height}
         alt="Nuestra misión es que encuentres el trabajo de tus sueños."
