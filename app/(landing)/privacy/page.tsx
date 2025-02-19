@@ -2,12 +2,10 @@ import Privacy from "@/app/components/privacy/Privacy";
 
 const Home = () => {
   return (
-  <div>
-    <Privacy />
-  </div>
-  )
-  
-  ;
+    <div>
+      <Privacy />
+    </div>
+  );
 };
 
 export default Home;

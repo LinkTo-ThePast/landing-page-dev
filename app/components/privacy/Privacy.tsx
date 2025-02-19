@@ -17,9 +17,7 @@ const Privacy = () => {
           title="Políticas de privacidad."
         />
       </div>
-      <div className="self-center">
-        <Footer />
-      </div>
+      <Footer />
     </div>
   );
 };
